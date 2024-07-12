@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaik-asif0" alt="shaik-asif0" /></a> </p>
 
-- 🔭 I’m currently working on **AIMER**
+- 🔭 I’m currently Studying  on **NRI INSTITUTE OF TECHNOLOGY**
 
 - 🌱 I’m currently learning **JS,Python**
 
